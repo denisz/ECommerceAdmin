@@ -1,0 +1,20 @@
+{
+  "rules": {
+    "no-console": "off",
+    "global-require": "off",
+    "class-methods-use-this": "off",
+    "import/extensions": "off",
+    "import/no-extraneous-dependencies": "off",
+    "react/jsx-filename-extension": "off",
+    "react/prefer-stateless-function": "off",
+    "react/no-array-index-key": "off",
+    "react/no-string-refs": "off",
+    "react/prop-types": "off",
+    "import/no-unresolved": "off",
+    "react/forbid-prop-types": "off",
+    "react/require-default-props": "off",
+    "react/no-unused-prop-types": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "react/no-direct-mutation-state": "off"
+  }
+}
